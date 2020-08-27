@@ -1,0 +1,28 @@
+.bg {
+    background: #16222A;
+    background: -webkit-linear-gradient(59deg, #3A6080, #16222A);
+    background: linear-gradient(59deg, #3A6073, #16222A);
+    color: white ;
+}
+
+ul {
+    text-align: center;
+}
+
+.navbar-brand {
+    font-size: large;
+    border-radius: 50px solid black;
+    text-decoration: underline white double;
+    width: 60px;
+  height: 60px;
+  border: 2px dotted white;
+  border-radius: 50px;
+  padding-top: 0.8em;
+}
+
+.active {
+    text-transform: uppercase;
+}
+.active :hover {
+    color: orange;
+}
